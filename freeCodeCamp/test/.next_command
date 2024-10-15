@@ -35,3 +35,4 @@ project
 workspace
 ls --color=auto
 cd freeCodeCamp
+pwd
