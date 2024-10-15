@@ -32,3 +32,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello terminal
 pwd
 project
+workspace
+ls --color=auto
