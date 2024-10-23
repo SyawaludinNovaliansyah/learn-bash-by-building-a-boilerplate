@@ -83,3 +83,4 @@ find client
 ls --color=auto --help
 find --hell[
 find --help
+find -name index.html
