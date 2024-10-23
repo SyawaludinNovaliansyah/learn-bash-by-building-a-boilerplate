@@ -151,3 +151,6 @@ echo one more thing...
 echoecho I made rhis boilerplate >> README.md
 echo I made this boilerplate >> README.md
 more README.md
+echo I made this boilerplate >> README.md
+echo from the command line >> READ.md
+echo from the command line >> README.md
