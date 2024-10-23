@@ -45,3 +45,4 @@ cd ..
 ls --color=auto
 rm background.jpg
 rm header.png
+rm footer.jpeg
