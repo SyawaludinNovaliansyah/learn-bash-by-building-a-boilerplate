@@ -158,3 +158,4 @@ __vsc_prompt_cmd_original
 echo for the freeCodeCampe bash lessons >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
 more README.md
+cd ..
