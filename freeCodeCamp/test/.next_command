@@ -143,3 +143,5 @@ toouch serer.js
 touch server.js
 touch README.md
 ls --color=auto
+aecho yay!
+echo Yay!
