@@ -169,3 +169,4 @@ find -name toms-website
 find toms-website
 find boilerplate
 find website-boilerplate
+clear
