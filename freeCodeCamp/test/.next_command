@@ -29,3 +29,10 @@ ls --color=auto
 rm backgorund.jpg
 rm background.jpg
 ls --color=auto
+cp header.png
+cp badkground.jpg umages
+cp badkground.jpg images
+cp background.jpg images
+cp background.jpg images
+cd header.png images
+cp header.png images
