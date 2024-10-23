@@ -80,3 +80,6 @@ mv styles.css client/src
 find
 find
 find client
+ls --color=auto --help
+find --hell[
+find --help
