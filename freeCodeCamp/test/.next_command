@@ -137,3 +137,4 @@ find
 rm --hrlp
 rm --help
 rm -r fonts
+ls --color=auto
