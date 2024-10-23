@@ -154,3 +154,4 @@ more README.md
 echo I made this boilerplate >> README.md
 echo from the command line >> READ.md
 echo from the command line >> README.md
+__vsc_prompt_cmd_original
