@@ -65,3 +65,5 @@ dir
 touch roboto.woff
 mv roboto.woff
 mv roboto.woff fonts
+fint
+find
