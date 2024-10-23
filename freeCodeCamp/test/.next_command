@@ -148,3 +148,5 @@ echo Yay!
 ech i finished the boilerplate!
 echo I finished the boilerplate!
 echo one more thing...
+echoecho I made rhis boilerplate >> README.md
+echo I made this boilerplate >> README.md
