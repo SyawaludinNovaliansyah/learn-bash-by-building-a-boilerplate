@@ -142,3 +142,4 @@ touch package.json
 toouch serer.js
 touch server.js
 touch README.md
+ls --color=auto
