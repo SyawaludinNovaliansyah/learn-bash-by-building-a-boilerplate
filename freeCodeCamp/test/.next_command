@@ -1,0 +1,6 @@
+cd project
+cd /workspace/project/website
+cd /workspace/project/project
+list
+ls --color=auto -l
+ls --color=auto --help
