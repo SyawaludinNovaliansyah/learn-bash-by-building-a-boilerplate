@@ -155,3 +155,5 @@ echo I made this boilerplate >> README.md
 echo from the command line >> READ.md
 echo from the command line >> README.md
 __vsc_prompt_cmd_original
+echo for the freeCodeCampe bash lessons >> README.md
+echo for the freeCodeCamp bash lessons >> README.md
