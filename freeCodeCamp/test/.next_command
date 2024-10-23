@@ -67,3 +67,4 @@ mv roboto.woff
 mv roboto.woff fonts
 fint
 find
+mv lato.ttf fonts
