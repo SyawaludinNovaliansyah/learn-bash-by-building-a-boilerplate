@@ -4,3 +4,4 @@ cd /workspace/project/project
 list
 ls --color=auto -l
 ls --color=auto --help
+ls --color=auto -a
