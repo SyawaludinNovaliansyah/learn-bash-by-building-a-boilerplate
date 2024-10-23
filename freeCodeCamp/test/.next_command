@@ -99,3 +99,6 @@ cd../../..
 cd ../../..
 cd images
 ls --color=auto
+move header.png..
+mv header.png..
+mv header.png ..
