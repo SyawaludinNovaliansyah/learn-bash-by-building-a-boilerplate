@@ -132,3 +132,4 @@ ls --color=auto
 find client/assets/fonts
 touch client/assets/fonts/roboto-light.woff
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
